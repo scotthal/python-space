@@ -8,6 +8,7 @@
         "editorconfig.editorconfig",
         "github.github-vscode-theme",
         "ms-azuretools.vscode-docker",
+        "ms-python.autopep8",
         "ms-python.python",
         "redhat.vscode-yaml",
         "visualstudioexptteam.vscodeintellicode"
